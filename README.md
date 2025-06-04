@@ -1,3 +1,7 @@
+# M.Siddartha Reddy
+#700774070
+
+
 # Question 1: Convolution Operations with Different Parameters
 
 # Objective:
